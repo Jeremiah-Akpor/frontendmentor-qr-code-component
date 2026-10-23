@@ -22,7 +22,7 @@ Recreate the provided QR code card design for desktop and mobile using HTML and 
 ### Links
 
 - **Repository:** [View source on GitHub](https://github.com/Jeremiah-Akpor/frontendmentor-qr-code-component)
-- **Live site:** Not deployed yet — GitHub Pages deployment is the next step.
+- **Live site:** [View QR Code Component on GitHub Pages](https://jeremiah-akpor.github.io/frontendmentor-qr-code-component/)
 - **Frontend Mentor solution:** Not submitted yet.
 
 _A screenshot of the finished implementation can be added here after deployment._
